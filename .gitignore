@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Test files
+tests/sample.jpg
